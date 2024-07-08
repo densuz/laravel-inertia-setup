@@ -1,4 +1,4 @@
-# laravel-inertia-kosongan
+# laravel-inertia-setup
 
 Laravel 11 (11.11.1) with inertia.js already installed
 
